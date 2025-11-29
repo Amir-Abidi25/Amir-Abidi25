@@ -49,7 +49,7 @@
 ## 📫 Connect With Me
 
 - ✉️ Email: **herrabidiamir@gmail.com**  
-- 💼 LinkedIn: www.linkedin.com/in/amir-abidi
+- 💼 LinkedIn: **www.linkedin.com/in/amir-abidi**
 
 
 ---
