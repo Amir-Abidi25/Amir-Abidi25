@@ -49,7 +49,8 @@
 ## 📫 Connect With Me
 
 - ✉️ Email: **herrabidiamir@gmail.com**  
-- 💼 LinkedIn: *(add link here)*  
+- 💼 LinkedIn: www.linkedin.com/in/amir-abidi
+
 
 ---
 
