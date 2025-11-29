@@ -11,10 +11,10 @@
 - 👨‍🎓 I am **Amir Abidi**, an Electrical Engineering student at **HTW Berlin**  
 - 🔌 Passionate about **Automation, SPS (PLC), Embedded Systems & Software Engineering**  
 - 💻 Programming in **C (advanced)**, **Python (confident)**, and **C# (basics)**  
-- 🤖 Hands-on experience with **Siemens S7-1500**, **TIA Portal**, **KOP/FUP programming**  
+- 🤖 Experience with **Siemens S7-1500**, **TIA Portal**, **KOP/FUP programming**  
 - 🔧 Completed the **SPS Grundkurs (IHK Heilbronn)** with a *very good grade*  
 - 🧪 Built small automation & software mini-projects  
-- 📚 Always learning, always leveling up  
+- 📚 Always learning and improving  
 
 ---
 
@@ -24,11 +24,34 @@
 - **C**, **Python**, **C# (basics)**, JavaScript (beginner)
 
 ### 🔌 Automation & Engineering
-- Siemens **S7-1500**, **TIA Portal**, KOP, FUP  
-- Digitaltechnik, elektrotechnische Grundlagen
+- Siemens **S7-1500**, **TIA Portal**, **KOP/FUP**  
+- Digitaltechnik, elektrotechnische Grundlagen  
 
 ### 🧰 Tools & Platforms
-- Git, GitHub, VS Code, Linux, Windows  
-- Markdown, JSON, HTML/CSS
+- Git, GitHub, VS Code, Linux  
+- Markdown, JSON, HTML/CSS  
 
 ---
+
+## 📁 Portfolio
+
+### 📜 Certificates
+- **SPS Grundkurs — IHK Heilbronn**  
+  ➝ [View Certificate (PDF)](https://github.com/user-attachments/files/23834155/IHK_SPS_Zertifikat.PDF)
+
+### 🤖 Automation Projects
+- *(coming soon)*
+
+### 💻 Programming Projects
+- *(coming soon)*
+
+---
+
+## 📫 Connect With Me
+
+- ✉️ Email: **herrabidiamir@gmail.com**  
+- 💼 LinkedIn: *(add link here)*  
+
+---
+
+<p align="center">✨ Always learning. Always improving. ✨</p>
