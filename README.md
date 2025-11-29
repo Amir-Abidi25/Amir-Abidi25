@@ -1,6 +1,5 @@
 <h1 align="center">⌬ Hello World! I'm Amir ⌬</h1>
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" />
 </p>
@@ -34,12 +33,21 @@
 
 ---
 
+## 📁 Portfolio
+
+- 📜 **SPS Grundkurs (IHK Heilbronn)** —  
+  ➝ [View Certificate (PDF)](https://github.com/user-attachments/files/23834155/IHK_SPS_Zertifikat.PDF)
+
+- 🤖 **Automation Mini-Projects** — *(Coming soon)*  
+- 💻 **Programming Projects (C / Python)** — *(Coming soon)*  
+
+---
+
 ## 📫 Connect With Me
-- ✉️ Email: herrabidiamir@gmail.com  
-- 💼 LinkedIn:   
-- 🌐 Portfolio: 📜 SPS Grundkurs (IHK Heilbronn) — [IHK_SPS_Zertifikat.PDF](https://github.com/user-attachments/files/23834155/IHK_SPS_Zertifikat.PDF)
 
-
+- ✉️ Email: **herrabidiamir@gmail.com**  
+- 💼 LinkedIn: *(add your link here)*  
+- 🌐 Portfolio Website: *(optional – if you create one later)*  
 
 ---
 
