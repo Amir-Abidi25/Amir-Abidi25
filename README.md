@@ -21,15 +21,14 @@
 ## 🛠 Tech Stack
 
 ### ⚙️ Programming Languages
-- **C**, **Python**, **C# (basics)**, JavaScript (beginner)
+- **C**, **Python**, **C# (basics)**, **SIEMENS TIA PORTAL**
 
 ### 🔌 Automation & Engineering
 - Siemens **S7-1500**, **TIA Portal**, **KOP/FUP**  
 - Digitaltechnik, elektrotechnische Grundlagen  
 
 ### 🧰 Tools & Platforms
-- Git, GitHub, VS Code, Linux  
-- Markdown, JSON, HTML/CSS  
+- Git, GitHub, VS Code  
 
 ---
 
