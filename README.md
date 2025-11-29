@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Amir Abidi 👋</h1>
-<h3 align="center">Electrical Engineering Student | HTW Berlin | Automation & Software</h3>
+<h1 align="center">
+  Hi, I'm Amir Abidi 👋
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Hello coder gif" />
 </p>
 
 ---
