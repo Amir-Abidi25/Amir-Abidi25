@@ -1,4 +1,5 @@
-<h1 align="center">Ｈｅｌｌｏ Ｗｏｒｌｄ！ Ｉ’ｍ Ａｍｉｒ 👋</h1>
+<h1 align="center">⌬ Hello World! I'm Amir ⌬</h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" />
