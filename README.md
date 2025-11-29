@@ -35,9 +35,11 @@
 ---
 
 ## 📫 Connect With Me
-- ✉️ Email: *your-email-here*  
-- 💼 LinkedIn: *your-link-here*  
-- 🌐 Portfolio: *coming soon…*
+- ✉️ Email: herrabidiamir@gmail.com  
+- 💼 LinkedIn:   
+- 🌐 Portfolio: 📜 SPS Grundkurs (IHK Heilbronn) — [PDF ansehen]()[IHK_SPS_Zertifikat.PDF](https://github.com/user-attachments/files/23834155/IHK_SPS_Zertifikat.PDF)
+
+
 
 ---
 
